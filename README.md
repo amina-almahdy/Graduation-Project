@@ -8,6 +8,6 @@ Graduation Project Lending Club Loans Dataset Analysis:
 
 •	Building Interactive Dashboard using Power BI, and Tableau
 
-(https://app.powerbi.com/groups/me/reports/88f6dee6-e177-4d2d-960f-5e8cdefc50b0/95d39d4670d6b1bb0544?experience=power-bi) Power BI Dashboard Link
+(https://app.powerbi.com/view?r=eyJrIjoiYTYxMjE2MGUtODVkYy00ZDExLWEzNjQtNDU5ZjdhZjRlZTgzIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) Power BI Dashboard Link
 
 (https://public.tableau.com/app/profile/ashraf.mohamed6847/viz/Grad-project_17254149858080/LoanPerformanceDashboard2?publish=yes) Tableau Dashboard Link
